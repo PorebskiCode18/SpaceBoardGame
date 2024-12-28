@@ -1,0 +1,39 @@
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\bin\Debug\Board game project.exe.config
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\bin\Debug\Board game project.exe
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\bin\Debug\Board game project.pdb
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\bin\Debug\Board game project.xml
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board game project.vbprojAssemblyReference.cache
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board_game_project.Form1.resources
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board_game_project.Form2.resources
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board_game_project.Resources.resources
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board game project.vbproj.GenerateResource.cache
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board game project.vbproj.CoreCompileInputs.cache
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board game project.exe
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board game project.xml
+H:\0. M256\Visual Basic\Projects in progress\Board game project\Board game project\obj\Debug\Board game project.pdb
+E:\Board game project\Board game project\obj\Debug\Board game project.vbproj.AssemblyReference.cache
+E:\Board game project\Board game project\obj\Debug\Board_game_project.Form1.resources
+E:\Board game project\Board game project\obj\Debug\Board_game_project.Form2.resources
+E:\Board game project\Board game project\obj\Debug\Board_game_project.Resources.resources
+E:\Board game project\Board game project\obj\Debug\Board game project.vbproj.GenerateResource.cache
+E:\Board game project\Board game project\obj\Debug\Board game project.vbproj.CoreCompileInputs.cache
+E:\Board game project\Board game project\obj\Debug\Board game project.exe
+E:\Board game project\Board game project\obj\Debug\Board game project.xml
+E:\Board game project\Board game project\obj\Debug\Board game project.pdb
+E:\Board game project\Board game project\bin\Debug\Board game project.exe.config
+E:\Board game project\Board game project\bin\Debug\Board game project.exe
+E:\Board game project\Board game project\bin\Debug\Board game project.pdb
+E:\Board game project\Board game project\bin\Debug\Board game project.xml
+D:\Board game project\Board game project\bin\Debug\Board game project.exe.config
+D:\Board game project\Board game project\bin\Debug\Board game project.exe
+D:\Board game project\Board game project\bin\Debug\Board game project.pdb
+D:\Board game project\Board game project\bin\Debug\Board game project.xml
+D:\Board game project\Board game project\obj\Debug\Board game project.vbprojAssemblyReference.cache
+D:\Board game project\Board game project\obj\Debug\Board_game_project.Form1.resources
+D:\Board game project\Board game project\obj\Debug\Board_game_project.Form2.resources
+D:\Board game project\Board game project\obj\Debug\Board_game_project.Resources.resources
+D:\Board game project\Board game project\obj\Debug\Board game project.vbproj.GenerateResource.cache
+D:\Board game project\Board game project\obj\Debug\Board game project.vbproj.CoreCompileInputs.cache
+D:\Board game project\Board game project\obj\Debug\Board game project.exe
+D:\Board game project\Board game project\obj\Debug\Board game project.xml
+D:\Board game project\Board game project\obj\Debug\Board game project.pdb
